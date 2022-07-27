@@ -97,7 +97,7 @@ if __name__ == "__main__":
     print('加密:')
     for i in range(len(c)):
         print(c[i*8:(i+1)*8],end=' ')
-    print('解密:')
+    print('\n解密:')
     m1=decrypt(c1, c2, c3, a, b, p)
     if m1:
         m1=str(bytes.fromhex(m1))
