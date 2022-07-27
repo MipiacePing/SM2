@@ -1,6 +1,6 @@
 ## 项目说明 -- SM2：
 
-**对应仓库：**https://github.com/MipiacePing/SM2
+**对应仓库：** https://github.com/MipiacePing/SM2
 
 - ✅Project: report on the application of this deduce technique in Ethereum with ECDSA
 - Project: impl sm2 with RFC6979
