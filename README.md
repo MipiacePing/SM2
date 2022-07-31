@@ -4,6 +4,8 @@
 
 **github账号**：[MipiacePing](https://github.com/MipiacePing)
 
+**注：** 每个项目文件夹中有单独的README
+
 - ✅Project: report on the application of this deduce technique in Ethereum with ECDSA
 - ✅Project: impl sm2 with RFC6979
 - Project: verify the above pitfalls with proof-of-concept code
