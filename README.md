@@ -1,6 +1,5 @@
 ## 项目仓库 -- SM2
 
-**作者：** 张自平 201900460035
 
 **github账号**：[MipiacePing](https://github.com/MipiacePing)
 
